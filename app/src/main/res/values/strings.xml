@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EAC3_P1_Zerouali_Hassan</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Recipe...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Recipe not saved because it is empty.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
